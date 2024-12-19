@@ -32,9 +32,9 @@ Also in our portfolio there are ready-made clickers that we can quickly set up f
 
 - You can try the starting version of the bot including the basic functionality: https://t.me/clickerw3tap_bot
 
-## Explore Our Work
+#### Explore Our Work
 
-For a closer look at our portfolio and examples of our projects, visit this link: https://w3lab.tech/telegram-bots-miniapps/
+- For a closer look at our portfolio and examples of our projects, visit [this link](https://w3lab.tech/telegram-bots-miniapps/)
 
 ##
 
@@ -52,4 +52,4 @@ We can install ready-made solutions for you, or make you a unique clicker with a
 
 - **Launch speed:** Ready-made solutions or unique projects — deployment can be completed in the shortest possible time
 - **Experience and expertise:** We specialize in creating Mini Apps and have a proven track record in developing clicker games
-- **Guaranteed results:** Our company Verified Pinksale & OKX Partner
+- **Guaranteed results:** Our company [Verified Pinksale](https://docs.pinksale.finance/Marketing-Firms-13bd7dc69b3e8069beabc58d0e4bbb4b) & OKX Partner
